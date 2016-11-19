@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="device/huawei/Y625" name="Asserzayed/android_device_Y625" remote="github" revision="cm-13.0" />
+	<project path="device/huawei/msm8610-common" name="Asserzayed/android_device_huawei_msm8610-common" remote="github" revision="cm-13.0" />
+	<project path="vendor/huawei/msm8610-common" name="Asserzayed/proprietary_vendor_huawei_msm861-common" remote="github" revision="cm-13.0" />
+  <project path="vendor/huawei/Y625" name="Asserzayed/proprietary_vendor_huawei_Y625" remote="github" revision="cm-13.0" />
+	<project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-13.0" />
+	<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0" />
+</manifest>
